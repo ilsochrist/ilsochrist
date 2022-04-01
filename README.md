@@ -4,7 +4,8 @@
 
 
 Would you like to see my porfolio?
-https://portfolio-ilso.netlify.app/
+
+Please click in the link: https://portfolio-ilso.netlify.app/
 
 I'm learning at the moment **Node.Js**
 
