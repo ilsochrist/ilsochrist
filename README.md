@@ -2,8 +2,11 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Ilso Christ Gouvêa Barbosa</h1>
 <p align = "justify">Front-end Developer Junior, Pizza lover, Performance curious.</p>
 
-I'm learning at the moment **Node.Js**
 
+Would you like to see my porfolio?
+https://portfolio-ilso.netlify.app/
+
+I'm learning at the moment **Node.Js**
 
 [![Linkedin Badge](https://img.shields.io/badge/-ilsochristgouvêabarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilsochristgouvêabarbosa/)](https://www.linkedin.com/in/ilsochristgouvêabarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-ilsocgb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilsocgb@gmail.com)](mailto:ilsocgb@gmail.com)
