@@ -36,6 +36,7 @@ I'm learning at the moment **Node.js**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Instanbul.js](https://img.shields.io/badge/-Instanbul.js-yellow?style=flat-square&logo=instanbuljs)
+![Docker](https://img.shields.io/badge/-docker-blue?style=flat-square&logo=docker)
 
 
 ## ⚡ GitHub Stats
