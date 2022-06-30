@@ -34,7 +34,7 @@ I'm learning at the moment **Node.js**
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-![Hapi.js](https://img.shields.io/badge/-Hapi.js-black?style=flat-square&logo=hapi.js)
+![Hapi.js](https://img.shields.io/badge/-Hapijs-black?style=flat-square&logo=hapijs)
 
 
 ## ⚡ GitHub Stats
