@@ -1,6 +1,8 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Ilso Christ Gouvêa Barbosa</h1>
-<p align = "justify">Front-end Developer Junior && Back-end Developer Junior, Pizza lover, Performance curious.</p>
+<p align = "justify"> Web Developer, productive, communicative, sociable, open-minded and creative programmer, I am a code and pizza lover, good at Node.js back end but skilled at React development it is where my best skills are and where I have more domain.</p>
+
+<p align = "justify"> Hope You like my portfolio: https://webdev-ilsochrist-portfolio.netlify.app/.</p>
 
 I'm learning at the moment **React.js**
 
