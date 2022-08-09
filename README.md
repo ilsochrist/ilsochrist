@@ -4,12 +4,12 @@
 
 <p align = "justify"> Hope You like my portfolio! https://webdev-ilsochrist-portfolio.netlify.app/.</p>
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100448527/183536817-4f1e9f55-88c5-4b7b-8a05-0442e2487b04.gif)
+
 I'm learning at the moment **React.js**
 
 [![Linkedin Badge](https://img.shields.io/badge/-ilsochristgouvêabarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilsochristgouvêabarbosa/)](https://www.linkedin.com/in/ilsochristgouvêabarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-ilsocgb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilsocgb@gmail.com)](mailto:ilsocgb@gmail.com)
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100448527/183536817-4f1e9f55-88c5-4b7b-8a05-0442e2487b04.gif)
 
 ## 🚀💻 Technologies & Tools
 
