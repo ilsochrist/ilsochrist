@@ -6,7 +6,7 @@
 
 <p align = "justify"> Hope You like my portfolio! https://webdev-ilsochrist-portfolio.netlify.app/.</p>
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/100448527/183651224-3514af1a-0021-4abe-a7c8-590d51009144.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/100448527/183653486-ec272de6-cb34-426c-82d4-b32e6f0d14fc.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ilsochristgouvêabarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilsochristgouvêabarbosa/)](https://www.linkedin.com/in/ilsochristgouvêabarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-ilsocgb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilsocgb@gmail.com)](mailto:ilsocgb@gmail.com)
