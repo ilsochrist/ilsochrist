@@ -20,9 +20,9 @@
 
 ## 🚀💻 Technologies & Tools
 
-<span><img src="https://www.logo.wine/logo/Oracle_SQL_Developer"></span>
+
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-<span><img height="10px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
 
