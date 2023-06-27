@@ -23,6 +23,7 @@
 
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-F80000?style=flat&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
 
