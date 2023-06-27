@@ -1,8 +1,15 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Ilso Christ Gouvêa Barbosa</h1>
-<p align = "justify"> Web Developer, productive, communicative, sociable, open-minded and creative programmer, I am a code and pizza lover, good at Java Spring Boot back end but skilled at React and Angular development too.</p> 
+<p align = "justify"> I´m a Data analyst trainee. I am motivated by process optimization and learning new technologies.</p> 
 
-<p align = "justify">I'm learning at the moment Java Spring Boot.</p> 
+<p align = "justify">During these 10 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
+
+<p align = "justify">ETL (extract, transform and load).</p> 
+<p align = "justify">Data mining (with no help documentation).</p> 
+<p align = "justify">Data modeling.</p> 
+<p align = "justify">Visualization of views and tables.</p>
+<p align = "justify">Construction, maintenance of dashboards.</p> 
+<p align = "justify">Use of DAX (Data Analysis Expressions)..</p> 
 
 <p align = "justify"> Hope You like my portfolio! https://webdev-ilsochrist-portfolio.netlify.app/.</p>
 
