@@ -1,6 +1,6 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Ilso Christ Gouvêa Barbosa</h1>
-<p align = "justify"> I´m a Data analyst trainee. I am motivated by process optimization and learning new technologies.</p> 
+<p align = "justify"> I´m a Data analyst junior. I am motivated by process optimization and learning new technologies.</p> 
 
 <p align = "justify">During these 10 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
 
