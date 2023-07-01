@@ -11,7 +11,7 @@
 <p align = "justify">Construction, maintenance of dashboards.</p> 
 <p align = "justify">Use of DAX (Data Analysis Expressions)..</p> 
 
-<p align = "justify"> Hope You like my portfolio! https://webdev-ilsochrist-portfolio.netlify.app/](https://ilsochristdataanalyst.netlify.app/.</p>
+<p align = "justify"> Hope You like my portfolio! https://ilsochristdataanalyst.netlify.app/.</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ilsochristgouvêabarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilsochristgouvêabarbosa/)](https://www.linkedin.com/in/ilsochristgouvêabarbosa/)
