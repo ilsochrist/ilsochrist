@@ -9,7 +9,7 @@
 <p align = "justify">Data modeling.</p> 
 <p align = "justify">Visualization of views and tables.</p>
 <p align = "justify">Construction, maintenance of dashboards.</p> 
-<p align = "justify">Use of DAX (Data Analysis Expressions)..</p> 
+<p align = "justify">Use of DAX (Data Analysis Expressions).</p> 
 
 <p align = "justify"> Hope You like my portfolio! https://ilsochristdataanalyst.netlify.app/.</p>
 
