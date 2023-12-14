@@ -4,12 +4,19 @@
 
 <p align = "justify">During these 10 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
 
+<p align = "justify">Use of Python.</p>
+<p align = "justify">Use of Numpy, Pandas, Matplotlib.</p> 
 <p align = "justify">ETL (extract, transform and load).</p> 
 <p align = "justify">Data mining (with no help documentation).</p> 
 <p align = "justify">Data modeling.</p> 
 <p align = "justify">Visualization of views and tables.</p>
 <p align = "justify">Construction, maintenance of dashboards.</p> 
 <p align = "justify">Use of DAX (Data Analysis Expressions).</p> 
+<p align = "justify">Use of Power Query M Code.</p> 
+<p align = "justify">Use of Mailchimp API in Power BI.</p> 
+<p align = "justify">Use of Google Analytics API in Power BI.</p> 
+<p align = "justify">Use of PipeDrive API in Power BI.</p> 
+<p align = "justify">Use of Linkedin API in Power BI.</p> 
 
 <p align = "justify"> Hope You like my portfolio! https://ilsochristdataanalyst.netlify.app/.</p>
 
@@ -23,6 +30,8 @@
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 
 ## ⚡ GitHub Stats
