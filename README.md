@@ -4,20 +4,20 @@
 
 <p align = "justify">During 1 year and 6 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
 
-<p align = "justify">Use of Python.</p>
-<p align = "justify">Use of Numpy, Pandas, Matplotlib.</p>
-<p align = "justify">Use of R and R Studio.</p> 
-<p align = "justify">ETL (extract, transform and load).</p> 
-<p align = "justify">Data mining (with no help documentation).</p> 
-<p align = "justify">Data modeling.</p> 
-<p align = "justify">Visualization of views and tables.</p>
-<p align = "justify">Construction, maintenance of dashboards.</p> 
-<p align = "justify">Use of DAX (Data Analysis Expressions).</p> 
-<p align = "justify">Use of Power Query M Code.</p> 
-<p align = "justify">Use of Mailchimp API in Power BI.</p> 
-<p align = "justify">Use of Google Analytics API in Power BI.</p> 
-<p align = "justify">Use of PipeDrive API in Power BI.</p> 
-<p align = "justify">Use of Linkedin API in Power BI.</p> 
+<p align = "justify">- Use of Python.</p>
+<p align = "justify">- Use of Numpy, Pandas, Matplotlib.</p>
+<p align = "justify">- Use of R and R Studio.</p> 
+<p align = "justify">- ETL (extract, transform and load).</p> 
+<p align = "justify">- Data mining (with no help documentation).</p> 
+<p align = "justify">- Data modeling.</p> 
+<p align = "justify">- Visualization of views and tables.</p>
+<p align = "justify">- Construction, maintenance of dashboards.</p> 
+<p align = "justify">- Use of DAX (Data Analysis Expressions).</p> 
+<p align = "justify">- Use of Power Query M Code.</p> 
+<p align = "justify">- Use of Mailchimp API in Power BI.</p> 
+<p align = "justify">- Use of Google Analytics API in Power BI.</p> 
+<p align = "justify">- Use of PipeDrive API in Power BI.</p> 
+<p align = "justify">- Use of Linkedin API in Power BI.</p> 
 
 <p align = "justify"> Hope You like my portfolio! https://ilsochristdataanalyst.netlify.app/.</p>
 
