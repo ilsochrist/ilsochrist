@@ -2,10 +2,11 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Ilso Christ Gouvêa Barbosa</h1>
 <p align = "justify"> I´m a Data analyst junior. I am motivated by process optimization and learning new technologies.</p> 
 
-<p align = "justify">During 1 year and 4 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
+<p align = "justify">During 1 year and 6 months of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
 
 <p align = "justify">Use of Python.</p>
-<p align = "justify">Use of Numpy, Pandas, Matplotlib.</p> 
+<p align = "justify">Use of Numpy, Pandas, Matplotlib.</p>
+<p align = "justify">Use of R and R Studio.</p> 
 <p align = "justify">ETL (extract, transform and load).</p> 
 <p align = "justify">Data mining (with no help documentation).</p> 
 <p align = "justify">Data modeling.</p> 
@@ -32,7 +33,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 
