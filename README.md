@@ -4,6 +4,9 @@
 
 <p align = "justify">During 3 years of experience in the data area, I am daily exposed to some of these processes, such as:</p> 
 
+<p align = "justify">- Use of Power BI.</p>
+<p align = "justify">- Use of Dataverse.</p>
+<p align = "justify">- Use of Sharepoint.</p>
 <p align = "justify">- Use of Python.</p>
 <p align = "justify">- Use of Numpy, Pandas, Matplotlib.</p>
 <p align = "justify">- Use of R and R Studio.</p> 
