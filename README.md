@@ -12,17 +12,17 @@
 </p>
 
 <ul align="justify">
-  <li>✔️ Power BI (DAX, Power Query M, dashboard creation & maintenance)</li>
-  <li>✔️ Microsoft Dataverse integration</li>
-  <li>✔️ SharePoint Lists and integration with Power BI</li>
-  <li>✔️ Python for data manipulation and automation</li>
-  <li>✔️ Libraries: NumPy, Pandas, Matplotlib</li>
-  <li>✔️ R and RStudio for statistical analysis</li>
-  <li>✔️ ETL (Extract, Transform, Load) processes</li>
-  <li>✔️ Data mining and reverse engineering undocumented sources</li>
-  <li>✔️ Data modeling and relationship design</li>
-  <li>✔️ View and table analysis (SQL Server, Dataverse)</li>
-  <li>✔️ Integration of Power BI with various APIs:
+  <li> Power BI (DAX, Power Query M, dashboard creation & maintenance)</li>
+  <li> Microsoft Dataverse integration</li>
+  <li> SharePoint Lists and integration with Power BI</li>
+  <li> Python for data manipulation and automation</li>
+  <li> Libraries: NumPy, Pandas, Matplotlib</li>
+  <li> R and RStudio for statistical analysis</li>
+  <li> ETL (Extract, Transform, Load) processes</li>
+  <li> Data mining and reverse engineering undocumented sources</li>
+  <li> Data modeling and relationship design</li>
+  <li> View and table analysis (SQL Server, Dataverse)</li>
+  <li> Integration of Power BI with various APIs:
     <ul>
       <li>Mailchimp API</li>
       <li>Google Analytics API</li>
