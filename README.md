@@ -24,10 +24,10 @@
   <li> View and table analysis (SQL Server, Dataverse)</li>
   <li> Integration of Power BI with various APIs:
     <ul>
-      <li>Mailchimp API</li>
-      <li>Google Analytics API</li>
-      <li>PipeDrive API</li>
-      <li>LinkedIn API</li>
+      <li>Mailchimp</li>
+      <li>Google Analytics</li>
+      <li>PipeDrive</li>
+      <li>LinkedIn</li>
     </ul>
   </li>
 </ul>
