@@ -4,7 +4,7 @@
 </h1>
 
 <p align="justify">
-  I'm a mid-level <strong>Data Analyst</strong> passionate about process optimization, data visualization, and continuous learning of new technologies.
+  I'm a <strong>Data Analyst</strong> passionate about process optimization, data visualization, and continuous learning of new technologies.
 </p>
 
 <p align="justify">
