@@ -13,6 +13,8 @@
 
 <ul align="justify">
   <li> Power BI (DAX, Power Query M, dashboard creation & maintenance)</li>
+  <li> Azure</li>
+  <li> Databricks</li>
   <li> Microsoft Dataverse integration</li>
   <li> SharePoint Lists and integration with Power BI</li>
   <li> Python for data manipulation and automation</li>
